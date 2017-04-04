@@ -1,0 +1,12 @@
+
+
+<style type="text/css">
+.azul {
+	color: #1B2FBA;
+}
+</style>
+<html>
+<h1 align="center">< <em class="azul"><strong>HOLA MUNDO</strong></em> ></h1>
+<body bgcolor="#00FF33">
+</body>
+</html>
